@@ -43,4 +43,3 @@ This is just sample empty project for start developement of new website.
 ######   Any issue contact me at ben.el.malah@gmail.com or post your issue in issues tab.
 ######   You can support me by follow me, credit, or wherever what you want.
 ######   Thank you.
-######   Tank you.

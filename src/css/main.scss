@@ -1,0 +1,27 @@
+@import "node_modules/normalize.css/normalize";
+@import "node_modules/bootstrap/scss/bootstrap";
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: whitesmoke;
+}
+
+ul{
+	list-style: none;
+}
+
+.header{
+	display: flex;
+	width: 100%;
+	min-height: 100vh;
+	&-title{
+	    margin: auto;
+	    font-weight: bold;
+	    font-size: xxx-large;
+	}
+}
+
+
